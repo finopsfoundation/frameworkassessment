@@ -69,6 +69,8 @@ The lenses defined here, when effectively applied, may provide an adequate insig
 | Crawl | Experimental Automation | REPLACE ME |
 | Walk | Primary Automation | REPLACE ME |
 | Run | Full Automation | REPLACE ME |
-## Assessment Implementation - Process Example
+## Assessment Implementation
+!(/images/highlevel.jpg)
+
 
 `TO DO: Step-by-step implementation example, grading each capability - possibly screenshots of the google sheets tool as a working implementation example`
