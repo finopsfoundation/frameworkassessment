@@ -59,16 +59,16 @@ The lenses defined here, when effectively applied, may provide an adequate insig
 | -------- | -------- | -------- |
 | Pre-Crawl | No Adoption | This capability is not in place anywhere within the target scope group. |
 | Crawl | Initial Adoption | Early elements of this capability are being piloted / explored by a few individuals within the target group. |
-| Walk | Key Adoption | REPLACE ME |
-| Run | Full Adoption | REPLACE ME |
+| Walk | Key Adoption | `REPLACE ME` |
+| Run | Full Adoption | `REPLACE ME` |
 ### Lens 5: Automation
 `TO DO: write-up description of lens`
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
-| Pre-Crawl | No Automation | REPLACE ME |
-| Crawl | Experimental Automation | REPLACE ME |
-| Walk | Primary Automation | REPLACE ME |
-| Run | Full Automation | REPLACE ME |
+| Pre-Crawl | No Automation | `REPLACE ME` |
+| Crawl | Experimental Automation | `REPLACE ME` |
+| Walk | Primary Automation | `REPLACE ME` |
+| Run | Full Automation | `REPLACE ME` |
 ## Assessment Implementation
 ![Process Image](/images/highlevel.png)
 
