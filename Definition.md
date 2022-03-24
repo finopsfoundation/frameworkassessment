@@ -70,7 +70,7 @@ The lenses defined here, when effectively applied, may provide an adequate insig
 | Walk | Primary Automation | REPLACE ME |
 | Run | Full Automation | REPLACE ME |
 ## Assessment Implementation
-![Process Image](/images/highlevel.jpg)
+![Process Image](/images/highlevel.png)
 
 
 `TO DO: Step-by-step implementation example, grading each capability - possibly screenshots of the google sheets tool as a working implementation example`
