@@ -27,7 +27,9 @@ The implementation and specific execution of this assessment are out of scope. T
 The lenses defined here, when effectively applied, may provide an adequate insight into the strengths and weaknesses of a target group concerning the 18 FinOps Capabilities as defined by the FinOps Framework. Understanding each of these lenses is key to effectively applying a consistent analysis, which is critical in order to track current state over subsequent assessments. Examples of four maturity levels are given and discussed for each lens.
 
 ### Lens 1: Knowledge
-`TO DO: write-up description of lens`
+
+The KNOWLEDGE lens considers the scope of understanding and awareness of this capability across the target group. When responding to this lens, consider how clearly this capability is communicated? How broadly is this concept, it's mechanisms terms and processes known?
+
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
 | Pre-Crawl | No Knowledge | At this level, knowledge of the capability as defined by the framework is effectively non-existent within the target group. There are no discussions happening about this capability, and nobody is actively involved in developing any further knowledge. |
@@ -35,9 +37,10 @@ The lenses defined here, when effectively applied, may provide an adequate insig
 | Walk | Full Knowledge | Strong knowledge of the assessed capability is known throughout the target group, incorporated with starter onboarding and periodic reinforcement via training or other appropriate communication methods. |
 | Run | Knowledge Leader | The target group is now driving awareness of this capability beyond itself to other peer groups and the wider industry. Leveraging deep awareness across individuals in the group, working to improve awareness and build new insights into the capability. |
 
-
 ### Lens 2: Process
-`TO DO: write-up description of lens`
+
+PROCESS relates to both the set of actions being performed in order to deliver the capability being assessed, and the artefact defining and documenting those actions. Consider the efficacy, validity and prevalence of such processes.
+
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
 | Pre-Crawl | No Process | There are no described, consistent processes in place governing any aspect of the assessed capability within the target group. |
@@ -46,21 +49,27 @@ The lenses defined here, when effectively applied, may provide an adequate insig
 | Run | Mature Process | Clearly defined, fully integrated processes are now universally established and adopted. Processes are being iterated on with ongoing refinement. |
 
 ### Lens 3: Metrics
-`TO DO: write-up description of lens`
+
+Is this capability measured? Is there a way to measure and prove progress over time? How are those measurements obtained, and how relevant are they?
+
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
 | Pre-Crawl | No Metrics | There are no measurements being taken at this point. No direct insight is available concerning the progress or current state of this capability. |
 | Crawl | Basic Metrics | Initial, manually generated metrics are in place providing rudimentary traffic-light (eg: Red/Yellow/Green) measurement of this capability.|
 | Walk | Established KPIs | S.M.A.R.T. (Specific, Measurable, Achievable, Realistic, and Timely) KPIs are now in place covering at least some of this capability. |
 | Run | Mature, Global KPIs | S.M.A.R.T. KPIs are now globally in place, automated and refined/iterated on with a regular cadence. Direct links to business goals. Direct link to business performance. |
+
 ### Lens 4: Adoption
-`TO DO: write-up description of lens`
+
+How broadly has the capability being assessed been adoped and accepted by the business as part of its integral and critical functions? Consider the prevalence and presence of this capability across the entire scope group being assessed.
+
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
-| Pre-Crawl | No Adoption | This capability is not in place anywhere within the target scope group. |
-| Crawl | Initial Adoption | Early elements of this capability are being piloted / explored by a few individuals within the target group. |
-| Walk | Key Adoption | `REPLACE ME` |
-| Run | Full Adoption | `REPLACE ME` |
+| Pre-Crawl | No Adoption | The capability is not in place anywhere within the target scope group. |
+| Crawl | Initial Adoption | Early elements of the capability are being piloted / explored by a few individuals within the target group. |
+| Walk | Key Adoption | Critical elements of the target group have now fully established the capability as a part of their BAU (Business As Usual) behaviours |
+| Run | Full Adoption | The capability now exists in totality across all elements of the target group, and is being actively engaged with and worked on. |
+
 ### Lens 5: Automation
 `TO DO: write-up description of lens`
 | Maturity | Heading | Description |
