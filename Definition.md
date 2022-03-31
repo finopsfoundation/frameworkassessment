@@ -71,13 +71,13 @@ How broadly has the capability being assessed been adoped and accepted by the bu
 | Run | Full Adoption | The capability now exists in totality across all elements of the target group, and is being actively engaged with and worked on. |
 
 ### Lens 5: Automation
-`TO DO: write-up description of lens`
+Why spend valuable time executing a repeatable task with specific decision points and iterations? Automation drives consistency, speed and scalability across your Cloud landscape.
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
-| Pre-Crawl | No Automation | `REPLACE ME` |
-| Crawl | Experimental Automation | `REPLACE ME` |
-| Walk | Primary Automation | `REPLACE ME` |
-| Run | Full Automation | `REPLACE ME` |
+| Pre-Crawl | No Automation | Virtually all of the required actions within the Capability are being executed manually at this stage. |
+| Crawl | Experimental Automation | Early adoption of some key actions are beginning to be optimised through automated workflows and solutions. |
+| Walk | Primary Automation | Primary or most demanding actions have now been offloaded to automation solutions. |
+| Run | Full Automation | All repeatable tasks within this capability are now automated, any new tasks are reviewed for automation potential as the capability evolves |
 ## Assessment Implementation
 
 ### Example Process stages
