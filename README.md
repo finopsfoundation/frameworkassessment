@@ -1,4 +1,4 @@
-# FinOps Framework Maturity Assessment
+# FinOps Framework Assessment
 
 ## How to use these resources
 This is intended as a definition resource covering the components and concepts required in order to successfully assess and analyse the maturity levels across the entire FinOps Framework for a given target scope group.
