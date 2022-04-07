@@ -1,5 +1,4 @@
-# FinOps Framework Maturity Assessment Guide
-
+# FinOps Framework Assessment - Lens Definitions
 ## Introduction
 As we progress with our Cloud Technology adoption roadmaps, there is another path that we must travel - if we are to truly maximise the benefits realised from that roadmap.  We must now begin our journey towards FinOps Maturity and Excellence.
 
