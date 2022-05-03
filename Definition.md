@@ -14,7 +14,6 @@ This then is an approach designed to provide a standardised set of concepts and 
 
 This document will first explain the components of this assessment, then proceed to outline a method to combine understanding of the 6 assessment “Lenses”, along with the 6 Domains and 18 Capabilities of the FinOps Framework to produce actionable data and a measurable outcome.
 
-
 ## Scope & Intent
 This assessment is not intended as an exhaustive and comprehensive analytics solution. Rather, the intent is to provide a high-level overview of the current state, whilst at the same time triggering further targeted conversations and investigation to understand that current state more deeply.
 Deeper analysis on a per-capability level should be performed as needed as and when those capabilities are highlighted by this assessment. That deeper analysis is therefore outside of the scope of this initial assessment.
@@ -80,7 +79,7 @@ Why spend valuable time executing a repeatable task with specific decision point
 ## Assessment Implementation
 
 ### Example Process stages
-![Process Image](/images/highlevel.png)
+![Process Image](/images/Process.png)
 
 ### Example Assessment Matrix
 ![Matrix Image](/images/matrix.png)
