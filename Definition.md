@@ -79,7 +79,7 @@ Why spend valuable time executing a repeatable task with specific decision point
 ## Assessment Implementation
 
 ### Example Process stages
-![Process Image](/images/Process.png)
+![Process Image](/images/highlevel.png)
 
 ### Example Assessment Matrix
 ![Matrix Image](/images/matrix.png)
