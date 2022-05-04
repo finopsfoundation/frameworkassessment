@@ -23,4 +23,4 @@ The intent of the assessment should be to provide a cadence baseline to track pr
 ## HOW TO CONTRIBUTE:
 - Review and feed back on the existing definitions and content
 - Consider the specific questions and investigations for the various Capability-specific deep-dives 
-- Try out the assessment where you work, and talk about the outcomes on the Foundation slack in the `#maturity-assessment` channel
+- Try out the assessment where you work, and talk about the outcomes on the Foundation slack in the `#wg-framework-assessment` channel
