@@ -54,7 +54,7 @@ Preamble questions that form the basis of understanding to build a clear picture
 
 How good is “Good enough”? Within this assessment process, we use the term “Target Score” to illustrate our intended current goal within the overall scale. If there is a maximum assessment score of 20 within a capability (5 x lenses, each max score of 4) then how perfect do realistically expect that capability to become at this stage in our journey? How important is that capability? Perhaps a score level of 12 out of 20 is “good enough” for our present roadmap - especially if it is a new muscle(capability) we are building, and our assessed score is around the 4 or 5 mark.
 
-## Lenses Used in Assssment
+## Lenses Used in Assessment
 
 The lenses provide insight into five key aspects of successfully performing each FinOps Capability. Each will help you identify potential strengths or areas for development in how you perform the Capability, and what steps you can focus on next.
 
