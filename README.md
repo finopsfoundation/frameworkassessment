@@ -64,6 +64,8 @@ Each lens has five descriptive levels of performance, with examples of what woul
 
 ### Lens 1: Knowledge
 
+![knowledge image](images/knowledge.png)
+
 The KNOWLEDGE lens considers the scope of understanding and awareness of this capability across the target group. When responding to this lens, consider how clearly this capability is communicated? How broadly is this concept, it's mechanisms terms and processes known?
 
 | Maturity | Heading | Description |
@@ -75,6 +77,8 @@ The KNOWLEDGE lens considers the scope of understanding and awareness of this ca
 | FinOps 4 | Knowledge Leader | The target group is now driving awareness of this capability beyond itself to other peer groups and the wider industry. Leveraging deep awareness across individuals in the group, working to improve awareness and build new insights into the capability. |
 
 ### Lens 2: Process
+
+![process image](images/process.png)
 
 PROCESS relates to both the set of actions being performed in order to deliver the capability being assessed, and the artefact defining and documenting those actions. Consider the efficacy, validity and prevalence of such processes.
 
@@ -88,6 +92,8 @@ PROCESS relates to both the set of actions being performed in order to deliver t
 
 ### Lens 3: Metrics
 
+![metrics image](images/metrics.png)
+
 Is this capability measured? Is there a way to measure and prove progress over time? How are those measurements obtained, and how relevant are they?
 
 | Maturity | Heading | Description |
@@ -98,7 +104,9 @@ Is this capability measured? Is there a way to measure and prove progress over t
 | FinOps 3 | Established & collecting Metric Targets data | KPIs are now in place covering at least some of this capability and cadence has been established for collection |
 | FinOps 4 | Mature, Global KPIs | S.M.A.R.T. KPIs are now globally in place, automated and refined/iterated on with a regular cadence. Direct links to business goals. Direct link to business performance. |
 
-## Lens 4: Adoption
+### Lens 4: Adoption
+
+![adoption image](images/adoption.png)
 
 How broadly are the knowledge, processes and KPIs you are using to govern this capability being used in your organization. Has the capability being assessed been adopted and accepted by the business as part of its integral and critical functions? Consider the prevalence and presence of this capability across the entire scope group being assessed.
 
@@ -110,7 +118,9 @@ How broadly are the knowledge, processes and KPIs you are using to govern this c
 | FinOps 3 | Key Adoption | Fully established standardized elements of the capability as a part majority target groups BAU (Business As Usual) behaviors. |
 | FinOps 4 | Full Adoption | The capability now exists in totality across all elements of the target group, and is being actively engaged with and worked on. |
 
-## Lens 5: Automation
+### Lens 5: Automation
+
+![automation image](images/automation.png)
 
 Why spend valuable time executing a repeatable task with specific decision points and iterations? Automation drives consistency, speed and scalability across your Cloud landscape.
 | Maturity | Heading | Description |
