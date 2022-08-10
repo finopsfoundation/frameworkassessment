@@ -1,10 +1,10 @@
-# FinOps Framework Assessment Playbook
+# FinOps Assessment Playbook
 
 ## Introduction
 
 FinOps is an evolving cloud financial management discipline and cultural practice that enables organizations to get maximum business value by helping engineering, finance, technology and business teams to collaborate on data-driven spending decisions.
 
-Once you have adopted FinOps, you will find that to maximize the benefits you realize from Cloud you must also continually mature your FinOps practice, in a journey toward FinOps excellence. 
+Once you have adopted FinOps, you will find that to maximize the benefits you realize from Cloud you must also continually mature your FinOps practice, in a journey toward FinOps excellence.
 
 This playbook is designed to be used in conjunction with the FinOps  Framework to assist you with a measurable, meaningful analysis of your current operating maturity as you travel that journey.Understanding your current situation leads to a clearer understanding of the key areas you must next focus closely on, in order to progress in a meaningful way.
 
@@ -18,7 +18,7 @@ This assessment is not intended as an exhaustive and comprehensive analytics sol
 
 For each assessment, be very clear in establishing your
 
-- Target Scope - which capability(ies) are you going to be assessing, and your 
+- Target Scope - which capability(ies) are you going to be assessing, and your
 - Target Group - on which part of the organization will you be assessing this scope
 
 Include those who will have primary impact on the Scope and Group selected. Consider including those who might be targets for later assessments as well to give them some experience with the process. 
@@ -142,7 +142,7 @@ When choosing the scope of an assessment we will define two key parameters:
 
 ### Target Group
 
-Establish your target group by focusing on groups that stand out in some way. Again, better to focus on one or a few groups than to try to obtain average scores across many groups who are at vastly different levels of maturity in their practice. 
+Establish your target group by focusing on groups that stand out in some way. Again, better to focus on one or a few groups than to try to obtain average scores across many groups who are at vastly different levels of maturity in their practice.
 
 When you are considering a target group and scope, look at some of these attributes to pick a meaningful and useful groupConsider the following attributes as examples of defining scope parameters:
 
@@ -232,7 +232,7 @@ Consider how to surface key areas of focus and highlight missing capability comp
 
 In the example given above, let’s look at the “Managing Shared Cost” capability. It is immediately clear that Managing Shared Cost has space for further development - particularly in both Metrics and Automation, where there is a zero score right now. Effectively, you have no insights into the progress or success within that area and there is no tooling in place to support the work. The capability is beginning to be understood however, and it is being actioned at some level, and adoption is growing. This might still result in successful delivery of the Capability outcome of actually distributing and managing the shared cost within the cloud platforms…
 
-But are those results being delivered in the most optimal way? 
+But are those results being delivered in the most optimal way?
 
 ### Identify Specific Actions
 
