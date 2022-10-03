@@ -6,7 +6,7 @@ FinOps is an evolving cloud financial management discipline and cultural practic
 
 Once you have adopted FinOps, you will find that to maximize the benefits you realize from Cloud you must also continually mature your FinOps practice, in a journey toward FinOps excellence.
 
-This playbook is designed to be used in conjunction with the FinOps  Framework to assist you with a measurable, meaningful analysis of your current operating maturity as you travel that journey.Understanding your current situation leads to a clearer understanding of the key areas you must next focus closely on, in order to progress in a meaningful way.
+This playbook is designed to be used in conjunction with the FinOps  Framework to assist you with a measurable, meaningful analysis of your current operating maturity as you travel that journey. Understanding your current situation leads to a clearer understanding of the key areas you must next focus closely on, in order to progress in a meaningful way.
 
 This playbook provides a set of concepts and measurements to support that analysis. These measurements can be applied to virtually all levels of an organization, from detailed and granular specific workloads / services / functional teams, through to the macroscopic analysis of organizational divisions or entire business units. It is designed to measure your operational maturity in consistent and well-understood terms whether you are measuring one application team or the whole organization.
 
@@ -21,7 +21,7 @@ For each assessment, be very clear in establishing your
 - Target Scope - which capability(ies) are you going to be assessing, and your
 - Target Group - on which part of the organization will you be assessing this scope
 
-Include those who will have primary impact on the Scope and Group selected. Consider including those who might be targets for later assessments as well to give them some experience with the process. 
+Include those who will have a primary impact on the Scope and Group selected. Consider including those who might be targets for later assessments as well to give them some experience with the process. 
 
 ## Key Terms
 
@@ -66,7 +66,7 @@ Each lens has five descriptive levels of performance, with examples of what woul
 
 ![knowledge image](images/knowledge.png)
 
-The KNOWLEDGE lens considers the scope of understanding and awareness of this capability across the target group. When responding to this lens, consider how clearly this capability is communicated? How broadly is this concept, it's mechanisms terms and processes known?
+The KNOWLEDGE lens considers the scope of understanding and awareness of this capability across the target group. When responding to this lens, consider how clearly this capability is communicated? How broadly is this concept, its mechanisms terms and processes known?
 
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
@@ -108,7 +108,7 @@ Is this capability measured? Is there a way to measure and prove progress over t
 
 ![adoption image](images/adoption.png)
 
-How broadly are the knowledge, processes and KPIs you are using to govern this capability being used in your organization. Has the capability being assessed been adopted and accepted by the business as part of its integral and critical functions? Consider the prevalence and presence of this capability across the entire scope group being assessed.
+How broadly are the knowledge, processes and KPIs you are using to govern this capability being used in your organization? Has the capability being assessed been adopted and accepted by the business as part of its integral and critical functions? Consider the prevalence and presence of this capability across the entire scope group being assessed.
 
 | Maturity | Heading | Description |
 | -------- | -------- | -------- |
@@ -144,7 +144,7 @@ When choosing the scope of an assessment we will define two key parameters:
 
 Establish your target group by focusing on groups that stand out in some way. Again, better to focus on one or a few groups than to try to obtain average scores across many groups who are at vastly different levels of maturity in their practice.
 
-When you are considering a target group and scope, look at some of these attributes to pick a meaningful and useful groupConsider the following attributes as examples of defining scope parameters:
+When you are considering a target group and scope, look at some of these attributes to pick a meaningful and useful group. Consider the following attributes as examples of defining scope parameters:
 
 - Cloud Cost allocation grouping
 - Engineering team/teams
@@ -162,7 +162,7 @@ Maintain a record of the scope along with all instances of baseline and analysis
 
 Once the environment scope has been defined, target scope needs to be considered. Trying to analyze all of the (currently 18) capabilities within the FinOps Framework is a tall order.
 
-When defining your target scope, focus on the capability or capabilities in areas where you believe there will be high business value in spending some FinOps team time building out. This will oftentimes be in domains such as Understanding Cloud Usage & Cost or Organizational Alignment if you are just starting out, or may be in the Optimize domains, Real Time Decision Making or Performance Tracking & Benchmarking if you are a little more established. It is likely better to assess fewer capabilities to keep the assessment more focused than to do too many. Remember, like FinOps itself, we benefit from starting small and growing in scale and complexity once we have established some muscle memory from repetitive practice.
+When defining your target scope, focus on the capability or capabilities in areas where you believe there will be high business value in spending some FinOps team time building out. This will oftentimes be in domains such as Understanding Cloud Usage & Cost or Organizational Alignment if you are just starting out, or maybe in the Optimize domains, Real Time Decision Making or Performance Tracking & Benchmarking if you are a little more established. It is likely better to assess fewer capabilities to keep the assessment more focused than to do too many. Remember, like FinOps itself, we benefit from starting small and growing in scale and complexity once we have established some muscle memory from repetitive practice.
 
 Depending on the nature and strengths of the business, different capabilities will interact and support one another in different ways. Therefore, consider which capabilities are most material to track at that time on the FinOps Adoption journey. Two different possible examples of how the dependencies / layers might look are given here. Within the context of the business being assessed, take the time to consider which capabilities make the most sense to assess within the context of that assessment target at that stage. This exercise should form the basis of an Adoption Roadmap that the Framework Assessment will work to support. 
 
@@ -192,7 +192,7 @@ It is likely a wise idea to begin analyzing a capability by ensuring that everyo
 
 #### Gathering Evidence
 
-Before diving into the 5 lenses proper, explore some Discovery Questions.It is recommended to develop and curate a library of capability-specific discovery questions that you will to begin gathering evidence and data to further support a decision on scoring for each lens within the assessment proper. Where possible, gather documented evidence to support answers to these questions, and ensure this evidence is associated with the rest of the assessment information to ensure context and support confidence in an accurate outcome.
+Before diving into the 5 lenses proper, explore some Discovery Questions. It is recommended to develop and curate a library of capability-specific discovery questions that you will begin gathering evidence and data to further support a decision on scoring for each lens within the assessment proper. Where possible, gather documented evidence to support answers to these questions, and ensure this evidence is associated with the rest of the assessment information to ensure context and support confidence in an accurate outcome.
 
 ### Conducting The Assessment
 
@@ -218,7 +218,7 @@ For the imaginary example shown below, the 5 assessed capabilities were broken d
 
 #### What does this data tell you?
 
-You can see that Knowledge and Process are comparatively strong areas for most of this set of capabilities - with Adoption spreading as well. There are still improvements to be focused on for Metrics, and that Automation has begun in some capabilities. It is clear that a number of other capabilities are yet to begin leveraging tooling to improve workflow efficiency and effectiveness. Previous efforts to drive an improvement in Data Analysis & Showback have resulted in a strong overall score for that capability, which provides a good grounding for other capabilities that depend heavily upon it - for example “Managing Anomalies” - to be further developed.
+You can see that Knowledge and Process are comparatively strong areas for most of this set of capabilities - with Adoption spreading as well. There are still improvements to be focused on for Metrics, and Automation has begun in some capabilities. It is clear that a number of other capabilities are yet to begin leveraging tooling to improve workflow efficiency and effectiveness. Previous efforts to drive an improvement in Data Analysis & Showback have resulted in a strong overall score for that capability, which provides a good grounding for other capabilities that depend heavily upon it - for example “Managing Anomalies” - to be further developed.
 
 From this data, you can now clearly identify areas for improvement and further discussion using the provided evidence to uncover any potential blockers to address - and develop a roadmap to deliver a delta for the next assessment.
 
